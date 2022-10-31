@@ -12,7 +12,7 @@
         "profilePlayer": {
             "name": "Page `profil`",
             "array": [
-                "Vous voilà sur la page du profil. Ici apparaissent vos statistiques, le personnage que vous avez choisit, votre niveau d'expérience, et votre souffle."
+                "Vous voilà sur la page du profil. Ici apparaissent vos statistiques, le personnage que vous avez choisi, votre niveau d'expérience, et votre souffle."
             ]
         },
         "profileInventory": {
@@ -24,13 +24,13 @@
         "profileActivity": {
             "name": "Page `activité`",
             "array": [
-                "À cet endroit vous trouverez les informations relatives à votre activité: les armes que vous forgez, vos entrainements en cours, etc."
+                "À cet endroit vous trouverez les informations relatives à votre activité: les armes que vous forgez, vos entraînements en cours, etc."
             ]
         },
         "profileMap": {
             "name": "Page `carte`",
             "array": [
-                "Sur cette page vous trouverez la carte du monde de la région où vous vous situez. Vous pouvez utiliser la commande `/map` afin d'en savoir plus sur la carte."
+                "Sur cette page vous trouverez la carte du monde de la région dans laquelle vous vous situez. Vous pouvez utiliser la commande `/map` afin d'en savoir plus sur la carte."
             ]
         },
         "profileAdditional": {
